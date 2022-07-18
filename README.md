@@ -3,7 +3,7 @@
 I am Manvi. 
 
 
-- I’m currently working as an Software Engineer **@glue-labs**
+- I’m currently working as an Software Engineer **@GlueLabs**
 - How to reach me **mnvsgautam9@gmail.com**
 
 ## ⚡ Social Profiles
