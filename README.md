@@ -34,6 +34,7 @@ I am Manvi.
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![Nextjs](https://img.shields.io/badge/-nextjs-E10098?style=flat-square&logo=nextjs)
 
 ## ⚡ Top Languages
 
