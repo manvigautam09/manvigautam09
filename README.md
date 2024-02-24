@@ -38,4 +38,4 @@ I am Manvi!!
 
 ## ⚡ Top Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvigautam09&layout=compact&hide=html" alt="Aryan Agarwal Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvigautam09&layout=compact&hide=html" alt="Manvi Sharma Top Langs" /></p>
