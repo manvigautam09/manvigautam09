@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Manvi !
+I am Manvi
 
 - I’m currently working as a Software Engineer [@GlueLabs](https://gluelabs.com/)
 - How to reach me **mnvsgautam9@gmail.com**
