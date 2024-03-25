@@ -34,7 +34,7 @@ I am Manvi!
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Nextjs](https://img.shields.io/badge/-nextjs-E10098?style=flat-square&logo=nextjs)
-![Redis](https://img.shields.io/badge/-redis-E10098?style=flat-square&logo=redis)
+![Redis](https://img.shields.io/badge/-redis-black?style=flat-square&logo=redis)
 
 ## ⚡ Top Languages
 
