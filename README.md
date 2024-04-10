@@ -11,7 +11,7 @@ I am Manvi
 [![Medium Badge](https://img.shields.io/badge/-@mnvsgautam9-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mnvsgautam9/)](https://medium.com/@mnvsgautam9)
 [![Twitter Badge](https://img.shields.io/badge/-@manvigautam09-15202B?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/manvigautam09)](https://twitter.com/manvigautam09)
 
-## ⚡ Technologies
+## ⚡ Technologies 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
