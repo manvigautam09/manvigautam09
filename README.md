@@ -2,8 +2,8 @@
 
 I am Manvi
 
-- I’m currently working as a Senior Software Engineer [@GlueLabs](https://gluelabs.com/)
-- How to reach me **mnvsgautam9@gmail.com** 
+- I’m currently working as a Senior Software Engineer [@GlueLabs](https://gluelabs.com/), with expertise in variety of technologies like React, React Native, Node.js, Nextjs, Vuejs, and Nestjs
+- How to reach me **mnvsgautam9@gmail.com** or **manvi@gluelabs.com** or **manvi@codedash.com**
 
 ## ⚡ Social Profiles
 
