@@ -3,6 +3,7 @@
 I am Manvi
 
 - I’m currently a Senior Software Engineer [@GlueLabs](https://gluelabs.com/), with experience in variety of technologies like React, React Native, Node.js, Nextjs, Vuejs, and Nestjs.
+- Contributor at [@Dashgen](https://dashgen.in/) – an AI Assistant Hub that streamlines your AI interactions by providing seamless integration with your preferred models and ensuring secure management of your API keys.
 - How to reach me **mnvsgautam9@gmail.com** or **manvi@gluelabs.com** or **manvi@codedash.com**
 - Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
 
@@ -36,6 +37,7 @@ I am Manvi
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Nextjs](https://img.shields.io/badge/-nextjs-E10098?style=flat-square&logo=nextjs)
 ![Redis](https://img.shields.io/badge/-redis-black?style=flat-square&logo=redis)
+![Nestjs](https://img.shields.io/badge/-nestjs-black?style=flat-square&logo=nestjs)
 
 ## ⚡ Top Languages
 
