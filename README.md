@@ -2,10 +2,10 @@
 
 I am Manvi
 
-- I’m currently a Senior Software Engineer [@GlueLabs](https://gluelabs.com/), with experience in variety of technologies like React, React Native, Node.js, Nextjs, Vuejs, and Nestjs.
+- I’m currently a Senior Software Engineer [@Thoughtworks](https://www.thoughtworks.com/en-in), with experience in variety of technologies like React, React Native, Node.js, Nextjs, Vuejs, and Nestjs.
 - Contributor at [@Dashgen](https://dashgen.in/) – an AI Assistant Hub that streamlines your AI interactions by providing seamless integration with your preferred models and ensuring secure management of your API keys.
-- How to reach me **mnvsgautam9@gmail.com** or **manvi@gluelabs.com** or **manvi@codedash.com**
-- Previously worked as an Software Engineer at [@GeekyAnts](https://geekyants.com/)
+- How to reach me **mnvsgautam9@gmail.com** or **manvi.sharma@thoughtworks.com** or **manvi@codedash.com**
+- Previously worked as Senior Software Engineer at [@Gluelabs](https://gluelabs.com/) and Software Engineer at [@GeekyAnts](https://geekyants.com/) 
 
 ## ⚡ Social Profiles
 
