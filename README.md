@@ -10,7 +10,7 @@ I am Manvi
 ## ⚡ Social Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/-manvigautam09-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manvigautam09/)](https://www.linkedin.com/in/manvigautam09/)
-[![Medium Badge](https://img.shields.io/badge/-@mnvsgautam9-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mnvsgautam9/)](https://medium.com/@mnvsgautam9)
+[![Medium Badge](https://img.shields.io/badge/-@mnvsgautam9-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mnvsgautam9/)](https://medium.com/@mnvsgautam09)
 [![Twitter Badge](https://img.shields.io/badge/-@manvigautam09-15202B?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/manvigautam09)](https://twitter.com/manvigautam09)
 
 ## ⚡ Technologies 
